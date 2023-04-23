@@ -5,7 +5,7 @@
 
 Studying for creating another world.
 
-为创世而读书。
+为中华之崛起而读书。
 
 <details>
 <summary>Introduction to My Open Source</summary>
