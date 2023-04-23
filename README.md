@@ -5,13 +5,6 @@
 - 💬 Email: yangjinlin@stu.shmtu.edu.cn
 - 👁‍🗨 Blog:
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jin-linYang" alt="Jin-linYang" /></p>
-
-
-
-
-
-
 <details>
 <summary>My project</summary>
   
