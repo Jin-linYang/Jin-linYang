@@ -18,7 +18,7 @@
 
 
 <details>
-<summary>我的开源项目简介</summary>
+<summary>My project</summary>
   
   | 人工智能系列                                                                                |                |
   | :------------------------------------------------------------------------------------------| :------------- |
@@ -35,19 +35,20 @@
 
 **About me:**
 
-- ❤️ Coding.
-- 💬 Email: pass
+- ❤️ Coding, reading.
+- 💬 Email: yangjinlin@stu.shmtu.edu.cn
 - 👁‍🗨 Blog:
-  - pass
+  
 
-<!-- 
-my paper and code
+
+<details>
+<summary>My paper and code</summary>
   
   | paper                                                        | code                                             | 会议/期刊 | 状态 | 任务 | 简介 |
   | :----------------------------------------------------------- | :----------------------------------------------- | :-----: | :-----: | :------ |:------ |
-  | Unsupervised Contrastive Deraining via Dual Graph Convolutional Network | ([pass](https://github.com/Jin-linYang/UCD)) | pass | pass | pass | pass |
+  | [Unsupervised Contrastive Deraining via Dual Graph Convolutional Network](https://github.com/Jin-linYang/UCD) | [python](https://github.com/Jin-linYang/UCD) | pass | pass | pass | pass |
  
+</details>
 
- -->
 ![Game[^1]](github-user-contribution.svg)
 
