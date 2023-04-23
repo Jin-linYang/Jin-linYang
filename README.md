@@ -3,7 +3,6 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jin-linYang" alt="LinXueyuanStdio" /></p>
 
-Studying for creating another world.
 
 为中华之崛起而读书。
 
