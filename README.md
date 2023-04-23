@@ -10,28 +10,10 @@ Studying for creating another world.
 <details>
 <summary>Introduction to My Open Source</summary>
 
-1. Math Formula OCR Series
-  - [LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)
-  - [LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)
-  - [Data-for-LaTeX_OCR](https://github.com/LinXueyuanStdio/Data-for-LaTeX_OCR)
+1. AI Series
+  - pass
 
-2. Android Architecture Series
-  - [lifecycle-component](https://github.com/LinXueyuanStdio/lifecycle-component)
-  - [DragBoardView](https://github.com/LinXueyuanStdio/DragBoardView)
 
-3. AI Series
-  - [PythonDataMining](https://github.com/LinXueyuanStdio/PythonDataMining)
-  - [scRNN-seq](https://github.com/LinXueyuanStdio/scRNN-seq)
-  - [Protease-target-prediction](https://github.com/LinXueyuanStdio/Protease-target-prediction)
-  - [Silly-AI-learns-to-paint](https://github.com/LinXueyuanStdio/Silly-AI-learns-to-paint)
-
-4. Android Project: TimeCat Series
-  - [timecat](https://github.com/LinXueyuanStdio/timecat)
-  - [TimeCatPluginManager](https://github.com/LinXueyuanStdio/TimeCatPluginManager)
-  - [TimeCatShadow](https://github.com/LinXueyuanStdio/TimeCatShadow)
-  - [TimeCatPlugin](https://github.com/LinXueyuanStdio/TimeCatPlugin)
-  - [TimeCatPPA](https://github.com/LinXueyuanStdio/TimeCatPPA)
-  - [module-book-reader](https://github.com/LinXueyuanStdio/module-book-reader)
 
 </details>
 
@@ -83,7 +65,7 @@ my paper and code
  -->
 ![Game[^1]](github-user-contribution.svg)
 
-[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)_
+[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)
 
-[^2]: <a href="https://profile-summary-for-github.com/user/LinXueyuanStdio">https://profile-summary-for-github.com/user/LinXueyuanStdio</a>
+[^2]: <a href="https://github.com/Jin-linYang">https://github.com/Jin-linYang</a>
 
