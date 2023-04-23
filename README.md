@@ -1,4 +1,4 @@
-### Hi 👋  [^2]<img align="right" src="https://profile-counter.glitch.me/Jin-linYang/count.svg" />
+### 👋  [Hi! Walcome to my github!](https://github.com/Jin-linYang) <img align="right" src="https://profile-counter.glitch.me/Jin-linYang/count.svg" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jin-linYang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jin-linYang" alt="LinXueyuanStdio" /></p>
@@ -64,8 +64,4 @@ my paper and code
 
  -->
 ![Game[^1]](github-user-contribution.svg)
-
-[^1]: _generated with [Platane/snk](https://github.com/Platane/snk)
-
-[^2]: <a href="https://github.com/Jin-linYang">https://github.com/Jin-linYang</a>
 
