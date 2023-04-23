@@ -1,9 +1,16 @@
-### 👋  [Hi! Walcome to my github!](https://github.com/Jin-linYang) 
+### 👋  [Hi! Walcome to my github!](https://github.com/Jin-linYang) <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jin-linYang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
 **About me: 为中华之崛起而读书**
 
 - ❤️ Coding, Reading.
 - 💬 Email: yangjinlin@stu.shmtu.edu.cn
 - 👁‍🗨 Blog:
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jin-linYang" alt="Jin-linYang" /></p>
+
+
+
+
+
 
 <details>
 <summary>My project</summary>
@@ -31,10 +38,6 @@
 </details>
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jin-linYang&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true" />
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Jin-linYang" alt="Jin-linYang" /></p>
 
 ![Game[^1]](github-user-contribution.svg)
 
