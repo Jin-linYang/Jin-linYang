@@ -1,7 +1,7 @@
 ### Welcome to my github！
 
 <!--
-**A2369864817/A2369864817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jin-linYang/Jin-linYang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
