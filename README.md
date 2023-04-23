@@ -1,5 +1,5 @@
 ### 👋  [Hi! Walcome to my github!](https://github.com/Jin-linYang) 
-**About me:为中华之崛起而读**
+**About me: 为中华之崛起而读书**
 
 - ❤️ Coding, Reading.
 - 💬 Email: yangjinlin@stu.shmtu.edu.cn
