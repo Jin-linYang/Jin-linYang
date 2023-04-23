@@ -35,7 +35,7 @@
 
 **About me:**
 
-- ❤️ Coding, reading.
+- ❤️ Coding, Reading.
 - 💬 Email: yangjinlin@stu.shmtu.edu.cn
 - 👁‍🗨 Blog:
   
